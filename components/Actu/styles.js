@@ -10,10 +10,9 @@ const styles = StyleSheet.create({
         height: "100%",
         borderTopRightRadius: 30,
         overflow: 'hidden',
-        paddingTop: 5,
     },
     hScroll:{
-        
+        marginTop: 8
     },
     pictureBg:{
 
